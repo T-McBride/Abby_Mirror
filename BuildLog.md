@@ -222,7 +222,7 @@ crontab -e
 
 ## Frame 
 
-Full credit to Jim Deaver for makinga beautiful frame from Poplar and Cherry. 
+Full credit to Jim Deaver for making a beautiful frame from Poplar and Cherry. 
 
 | <img src="images/FramePrefit.jpg" width=240/> | <img src="images/FramePartsFit.jpg" width=240/> | <img src="images/FrameAssemble.jpg" width=240/> |
 | :---: | :---: | :---: |

@@ -7,7 +7,11 @@ This project is the collective effort of your Aunt Jill, Uncle, Dave, Jim, Monic
 </p>
 <br>
 
-{image TBD}
+<hr>
+
+<img src="/images/Delivered.jpg" width=480/>
+
+*pic of delivery day for posterity*
 
 <hr>
 
